@@ -1,0 +1,23 @@
+# Random Dog Gallery
+
+This web application fetches random dog images and allows users to search for dogs by breed.
+
+## Features
+- Display random dog images on initial load.
+- Search for dogs by breed.
+- Responsive design fluid user experience.
+
+## What I Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Clone the rep.
+2. Open `index.html` in a web browser.
+
+## Notes
+- The application uses the "Random Dog" API for fetching random dog images.
+- The search feature allows users to enter breed name, and it fetches a random image of a dog of that breed.
+- The code is organized into modules: `apiService.js` for API calls and `main.js` for the main application logic.
+- The app is designed with a simple user-friendly interface.
