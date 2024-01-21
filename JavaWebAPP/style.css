@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+#searchInput {
+    padding: 5px;
+}
+
+button {
+    padding: 5px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+}
